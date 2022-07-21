@@ -1,0 +1,257 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.col{
+   color: #FFFFFF;
+ 
+}
+ .bar{
+     color:#1e0a46;
+ }
+.smart{
+    color:  #FFFFFF;
+    font-size: 1.8em;
+}
+.span{
+    color: #FFA412;
+}
+.button{
+    background-color: #23A6F0;
+    color:  #FFFFFF;
+    padding: 9px 13px 9px 13px;
+}
+nav{
+    opacity: .9;
+}
+.ul{
+    color: #1e0a46;
+}
+.li:hover{
+color: #1e0a46;
+opacity: .8;
+}
+.helping{
+color: rgba(255, 255, 255, 0.8);
+}
+.mint{
+ 
+ color: #737373CC;
+ ;
+}
+.security{
+    color: #737373CC; 
+   
+}
+.save-on-mint{
+ color:  #737373CC;
+ ;
+}
+.divider{
+    border: 2px dashed #E5E6E8;
+   
+}
+.pig{
+    
+    border: 1px solid #DCDCDC;
+    background-color: #FFFFFF;
+    ;
+    box-shadow: 0px 4.5px 4.5px rgba(0, 0, 0, 0.08);
+}
+.pig-text{
+    background-color: #EDEEF1;
+    border-radius: 25px 25px 0 0;
+}
+.one{
+    background-color: #FFB93E66;
+    ;
+   width: 10%;
+ height: 7%;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -1em;
+   
+    
+    
+
+}
+body{
+background: linear-gradient(0deg, #F9F6FE, #F9F6FE);
+    ;
+}
+.section4{
+    background-image: url(../images/Group\ 33\ \(1\).png);
+    background-position: center ;
+    background-size:  cover;
+    background-repeat: no-repeat;
+   
+}
+.two-hundred{
+    font-size: 2em;
+    color: #4243A1;
+
+}
+.button2{
+    border: 1px solid #23A6F0;
+    color:  #FFFFFF;
+    padding: 8px 10px 8px 10px;
+    color: #23A6F0;
+    ;
+    
+}
+.invest{
+    color: #737373;
+}
+.investment{
+    color: #737373;
+}
+.town {
+     background: radial-gradient(50% 68.53% at 65.35% 50%, rgba(158, 194, 250, 0.388) 0%, rgba(192, 168, 240, 0.4) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    ;
+    border: 1px solid #23A6F0
+}
+.ride{
+    background: #FFDF9966;
+    border: 1px solid #FFC440
+
+}
+.garden{
+    background: #6E6FE61A;
+
+    border: 1px solid #23A6F0
+}
+.button3{
+    background-color: #23A6F0;
+    color:  #FFFFFF;
+    padding: 8px 4px 8px 4px;
+    
+}
+.join {
+    color: #737373CC;
+
+}
+.we-provide{
+    color: #737373;
+
+}
+.button4{
+     background: #464646;
+     
+    ;
+}
+.section6{
+    background: linear-gradient(0deg, #FCFCFC, #FCFCFC);
+    border: 1px solid #000000
+
+}
+.client{
+    color: #737373B2;
+
+}
+.accountant{
+    background: #FFFFFF;
+}
+
+.stars{
+color: #FFC440;
+
+}
+.arrow{
+    cursor: pointer;
+}
+.box{
+    border: 0.7px solid #E5E6E8;
+    width: 50%;
+    margin: 3% auto;
+    color:  #737373;
+    
+  
+}
+.bt{
+    position: absolute;
+}
+.frequently{
+    color:  #737373B2;
+    
+}
+.frequently-title{
+    color: rgba(115, 115, 115, 0.65);
+
+}
+.gmail{
+    color:  #23A6F0;
+}
+footer{
+     background: radial-gradient(50% 68.53% at 65.35% 50%, rgba(8, 66, 155, 0.71) 0%, #40188F 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
+    ;
+}
+.links{
+    color: #FFC440;
+  
+    
+}
+.all-links{
+    color:  #FFFFFFCC;
+    
+}
+.email{
+    background-color: transparent;
+    border: 1px solid #FFC440
+}
+
+
+
+.second-nav{
+    height: 30vh;
+    background: #000;
+}
+
+
+.side-nav{
+    
+
+    background: radial-gradient(50% 68.53% at 65.35% 50%, rgba(8, 66, 155, 0.71) 0%, #40188F 100%)
+}
+.small-text{
+    color: #FFFFFFCC;
+
+}
+.ball{
+    height: 1vh;
+    width: 2%;
+    border-radius: 50%;
+    background-color:  #FFB93E;
+    margin-top: .6em;
+    
+}
+.sign-in{
+    color: #737373;
+    
+}
+.password{
+    color:  #FFFFFFB2;
+    ;
+}
+.inp{
+    background: #6E6FE61A;
+    color: #73737366;
+    width: 438px;
+height: 56px;
+
+}
+.sign-in-btn{
+    background: #23A6F0;
+    padding: 15px 14em 15px 14em;
+    color: #FFFFFF;
+
+}
+.inp-pass{
+    color:#737373;
+    
+}
+
+
